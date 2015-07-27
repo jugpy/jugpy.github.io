@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Grupo de Usuarios Java del Paraguay </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://jugpy.org/post/</link>
+    <link>http://localhost:1313/post/</link>
     <language>es-PY</language>
     <author>JUGPy</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Reunión de fundación del Grupo de Usuarios Java del Paraguay</title>
-      <link>http://jugpy.org/post/fundacion/</link>
+      <link>http://localhost:1313/post/fundacion/</link>
       <pubDate>Mon, 27 Jul 2015 13:14:07 PYT</pubDate>
       <author>JUGPy</author>
-      <guid>http://jugpy.org/post/fundacion/</guid>
+      <guid>http://localhost:1313/post/fundacion/</guid>
       <description>&lt;p&gt;El 24 de julio del corriente año, por fin nos reunimos para formalizar este grupo, que desde hace un tiempo habíamos formado en la red.
 La idea de esta reunión era tratar diversos temas, pero más que nada conocernos mejor entre los miembros y, por supuesto, compartir unas cervezas :-)
 &lt;br&gt;&lt;br&gt;
@@ -24,7 +24,7 @@ Les dejamos aquí unas imágenes del encuentro que se realizó en el local de As
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://jugpy.org/media/20150724/001.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/20150724/001.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -38,7 +38,7 @@ Les dejamos aquí unas imágenes del encuentro que se realizó en el local de As
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://jugpy.org/media/20150724/002.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/20150724/002.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
