@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Foros on Grupo de Usuarios Java del Paraguay </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://jugpy.org/foros/</link>
+    <language>es-PY</language>
+    <author>Java User Group Paraguay</author>
+    
+    <updated>Fri, 31 Jul 2015 11:01:46 PYT</updated>
+    
+  </channel>
+</rss>
