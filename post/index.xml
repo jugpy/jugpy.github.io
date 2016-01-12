@@ -3,18 +3,58 @@
   <channel>
       <title>Posts on Grupo de Usuarios Java del Paraguay </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://jugpy.org/post/</link>
+    <link>http://localhost:1313/post/</link>
     <language>es-PY</language>
     <author>Java User Group Paraguay</author>
     
-    <updated>Mon, 27 Jul 2015 13:14:07 PYT</updated>
+    <updated>Tue, 12 Jan 2016 12:19:26 PYST</updated>
+    
+    <item>
+      <title>Effective JavaEE7 Adam Bien workshop view - Parte 1</title>
+      <link>http://localhost:1313/post/adambien-workshop-view1/</link>
+      <pubDate>Tue, 12 Jan 2016 12:19:26 PYST</pubDate>
+      <author>Java User Group Paraguay</author>
+      <guid>http://localhost:1313/post/adambien-workshop-view1/</guid>
+      <description>&lt;p&gt;El sábado 9 pasado nos juntamos para ver parte de uno de los workshops de Adam Bien, Effective Java EE7.
+&lt;br&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/media/20160109/workshopsview1.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;br&gt;
+Este es un material que ha valido la pena adquirirlo y compartirlo con los miembros del JUG. Sobre todo por enfoque pragmático y muy práctico del autor.&lt;/p&gt;
+
+&lt;p&gt;Los puntos que hemos podido ver y debatir entre los presentes, en esta primera parte, fueron&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Initial Maven Setup&lt;/li&gt;
+&lt;li&gt;Structuring Java EE Applications&lt;/li&gt;
+&lt;li&gt;Coding The BCE Structure&lt;/li&gt;
+&lt;li&gt;Saving Time With Testing&lt;/li&gt;
+&lt;li&gt;JAX-RS Rules For JUnit&lt;/li&gt;
+&lt;li&gt;The Entity In BCE&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Durante estos primeros videos, hicimos mayor paréntesis y debate sobre el video 4 (Coding The BCE Structure), en donde Rubén nos comentó su experiencia utilizando el patrón BCE en un proyecto comercial real(queda pendiente un showcase de este proyecto para la siguiente reunión). Este patrón de arquitectura es ampliamente explicado y utilizado en el libro &lt;b&gt;Real World Java EE Patterns Rethinking Best Practices&lt;/b&gt;, también de Adam Bien.&lt;/p&gt;
+
+&lt;p&gt;Para la próxima reunión esperamos que se prendan más miembros del JUG e intentaremos filmar los debates o transmitirlos on air.&lt;/p&gt;
+
+&lt;p&gt;Les dejo el enlace de dónde pueden &lt;a href=&#34;https://vimeo.com/ondemand/effectivejavaee&#34;&gt;adquirir esta serie de videos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La imagen de Effective Java EE de la foto fue extraída de &lt;a href=&#34;https://vimeo.com/ondemand/effectivejavaee&#34;&gt;https://vimeo.com/ondemand/effectivejavaee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Reunión de fundación del Grupo de Usuarios Java del Paraguay</title>
-      <link>http://jugpy.org/post/fundacion/</link>
+      <link>http://localhost:1313/post/fundacion/</link>
       <pubDate>Mon, 27 Jul 2015 13:14:07 PYT</pubDate>
       <author>Java User Group Paraguay</author>
-      <guid>http://jugpy.org/post/fundacion/</guid>
+      <guid>http://localhost:1313/post/fundacion/</guid>
       <description>&lt;p&gt;El 24 de julio del corriente año, por fin nos reunimos para formalizar este grupo, que desde hace un tiempo habíamos formado en la red.
 La idea de esta reunión era tratar diversos temas, pero más que nada conocernos mejor entre los miembros y, por supuesto, compartir unas cervezas :-)
 &lt;br&gt;&lt;br&gt;
@@ -24,7 +64,7 @@ Les dejamos aquí unas imágenes del encuentro que se realizó en el local de As
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://jugpy.org/media/20150724/001.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/20150724/001.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -38,7 +78,7 @@ Les dejamos aquí unas imágenes del encuentro que se realizó en el local de As
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://jugpy.org/media/20150724/002.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/20150724/002.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;

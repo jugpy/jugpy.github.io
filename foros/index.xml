@@ -3,7 +3,7 @@
   <channel>
       <title>Foros on Grupo de Usuarios Java del Paraguay </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://jugpy.org/foros/</link>
+    <link>http://localhost:1313/foros/</link>
     <language>es-PY</language>
     <author>Java User Group Paraguay</author>
     
